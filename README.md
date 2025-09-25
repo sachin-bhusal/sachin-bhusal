@@ -4,7 +4,7 @@
 
 > 🚀 Innovating with technology and creative design 
 
-- 🎓 **Bachelor's in Computer Science** at Rowan University (2024–2028, Expected)
+- 🎓 **Bachelor's in Civil & Enviromental Engineering** at Rowan University (2024–2028, Expected)
 - 💻 **Graphic Designer**: Skilled in creating posters, brochures, and digital content
 - 🧑‍💻 **Software Developer**: Projects in Python, Arduino, and GUI design
 - 🌐 **Tech Enthusiast**: Building solutions with Tkinter, Pandas, and Arduino programming
